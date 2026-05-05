@@ -1,0 +1,65 @@
+{
+  "title": "Indian Polity - Fundamental Rights Test",
+  "questions": [
+    {
+      "q": "Which Article of the Constitution guarantees Equality before Law?",
+      "options": ["Article 12", "Article 13", "Article 14", "Article 15"],
+      "answer": 2,
+      "explanation": "Article 14 ensures equality before law and equal protection of laws."
+    },
+    {
+      "q": "Which Fundamental Right is known as the heart and soul of the Constitution?",
+      "options": ["Right to Equality", "Right to Freedom", "Right to Constitutional Remedies", "Right against Exploitation"],
+      "answer": 2,
+      "explanation": Dr. B.R. Ambedkar called Article 32 (Right to Constitutional Remedies) the heart and soul of the Constitution."
+    },
+    {
+      "q": "Which Article abolishes Untouchability?",
+      "options": ["Article 15", "Article 16", "Article 17", "Article 18"],
+      "answer": 2,
+      "explanation": "Article 17 abolishes untouchability and forbids its practice in any form."
+    },
+    {
+      "q": "Freedom of Speech and Expression is guaranteed under which Article?",
+      "options": ["Article 19(1)(a)", "Article 20", "Article 21", "Article 22"],
+      "answer": 0,
+      "explanation": "Article 19(1)(a) provides freedom of speech and expression."
+    },
+    {
+      "q": "Which Article deals with Protection of Life and Personal Liberty?",
+      "options": ["Article 19", "Article 20", "Article 21", "Article 22"],
+      "answer": 2,
+      "explanation": "Article 21 ensures protection of life and personal liberty."
+    },
+    {
+      "q": "Which of the following rights is NOT a Fundamental Right?",
+      "options": ["Right to Property", "Right to Freedom", "Right to Equality", "Right to Religion"],
+      "answer": 0,
+      "explanation": "Right to Property is now a legal right under Article 300A, not a Fundamental Right."
+    },
+    {
+      "q": "Which Article prohibits discrimination on grounds of religion, race, caste, sex or place of birth?",
+      "options": ["Article 14", "Article 15", "Article 16", "Article 17"],
+      "answer": 1,
+      "explanation": "Article 15 prohibits discrimination on specified grounds."
+    },
+    {
+      "q": "Which writ is issued to produce a person before the court?",
+      "options": ["Mandamus", "Certiorari", "Habeas Corpus", "Prohibition"],
+      "answer": 2,
+      "explanation": "Habeas Corpus is issued to bring a person before the court to examine legality of detention."
+    },
+    {
+      "q": "Which Article deals with protection in respect of conviction for offences?",
+      "options": ["Article 19", "Article 20", "Article 21", "Article 22"],
+      "answer": 1,
+      "explanation": "Article 20 provides protection against ex-post facto laws, double jeopardy, and self-incrimination."
+    },
+    {
+      "q": "Which Fundamental Right is related to freedom of religion?",
+      "options": ["Articles 19-22", "Articles 23-24", "Articles 25-28", "Articles 29-30"],
+      "answer": 2,
+      "explanation": "Articles 25 to 28 deal with freedom of religion."
+    }
+  ]
+}
