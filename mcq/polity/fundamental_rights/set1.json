@@ -1,0 +1,1349 @@
+{
+  "title": "Fundamental Rights - 200 PYQs (APPSC Groups, UPSC, State PSCs)",
+  "questions": [
+    {
+      "q": "Under which Part of the Indian Constitution are Fundamental Rights enshrined?",
+      "options": ["Part II", "Part III", "Part IV", "Part V"],
+      "answer": 1,
+      "explanation": "Fundamental Rights are contained in Part III of the Indian Constitution, Articles 12 to 35."
+    },
+    {
+      "q": "Which Article defines 'State' for the purpose of Fundamental Rights?",
+      "options": ["Article 12", "Article 13", "Article 14", "Article 15"],
+      "answer": 0,
+      "explanation": "Article 12 defines 'State' to include the Government and Parliament of India, State Governments and Legislatures, and all local or other authorities."
+    },
+    {
+      "q": "Which Article declares laws inconsistent with Fundamental Rights to be void?",
+      "options": ["Article 12", "Article 13", "Article 14", "Article 32"],
+      "answer": 1,
+      "explanation": "Article 13 declares that any law inconsistent with or in derogation of Fundamental Rights shall be void to the extent of inconsistency."
+    },
+    {
+      "q": "Article 14 guarantees equality before law to:",
+      "options": ["Only citizens", "Only residents", "Any person", "Only government employees"],
+      "answer": 2,
+      "explanation": "Article 14 guarantees equality before law and equal protection of laws to 'any person' — citizens and non-citizens alike."
+    },
+    {
+      "q": "Which Article prohibits discrimination on grounds of religion, race, caste, sex, or place of birth?",
+      "options": ["Article 14", "Article 15", "Article 16", "Article 17"],
+      "answer": 1,
+      "explanation": "Article 15 prohibits the State from discriminating against any citizen on grounds of religion, race, caste, sex or place of birth."
+    },
+    {
+      "q": "The State can make special provisions for women and children under which Article?",
+      "options": ["Article 14", "Article 15(3)", "Article 16(4)", "Article 21"],
+      "answer": 1,
+      "explanation": "Article 15(3) empowers the State to make special provisions for women and children, which is an exception to the general prohibition of discrimination."
+    },
+    {
+      "q": "Which Article guarantees equality of opportunity in matters of public employment?",
+      "options": ["Article 14", "Article 15", "Article 16", "Article 17"],
+      "answer": 2,
+      "explanation": "Article 16 guarantees equality of opportunity to all citizens in matters relating to employment or appointment to any office under the State."
+    },
+    {
+      "q": "Reservation for backward classes in public employment is provided under which Article?",
+      "options": ["Article 15(4)", "Article 16(4)", "Article 16(3)", "Article 15(3)"],
+      "answer": 1,
+      "explanation": "Article 16(4) allows the State to make provisions for reservation in appointments or posts for any backward class of citizens not adequately represented in State services."
+    },
+    {
+      "q": "Which Article abolishes untouchability?",
+      "options": ["Article 15", "Article 16", "Article 17", "Article 18"],
+      "answer": 2,
+      "explanation": "Article 17 abolishes untouchability and forbids its practice in any form. Enforcement of any disability arising out of untouchability is an offence punishable by law."
+    },
+    {
+      "q": "Which Article abolishes titles?",
+      "options": ["Article 16", "Article 17", "Article 18", "Article 19"],
+      "answer": 2,
+      "explanation": "Article 18 abolishes titles. It prohibits the State from conferring any title other than military or academic distinction."
+    },
+    {
+      "q": "The Right to Freedom is guaranteed under which Article?",
+      "options": ["Article 18", "Article 19", "Article 20", "Article 21"],
+      "answer": 1,
+      "explanation": "Article 19 guarantees six freedoms to citizens: speech and expression, assembly, association, movement, residence, and profession."
+    },
+    {
+      "q": "How many freedoms are guaranteed under Article 19 originally?",
+      "options": ["5", "6", "7", "8"],
+      "answer": 1,
+      "explanation": "Article 19 originally guaranteed 7 freedoms; the right to property (Article 19(1)(f)) was deleted by the 44th Amendment 1978, leaving 6 freedoms."
+    },
+    {
+      "q": "Freedom of speech and expression is guaranteed under which sub-article of Article 19?",
+      "options": ["Article 19(1)(a)", "Article 19(1)(b)", "Article 19(1)(c)", "Article 19(1)(d)"],
+      "answer": 0,
+      "explanation": "Article 19(1)(a) guarantees to all citizens the right to freedom of speech and expression."
+    },
+    {
+      "q": "Right to assemble peaceably and without arms is guaranteed under:",
+      "options": ["Article 19(1)(a)", "Article 19(1)(b)", "Article 19(1)(c)", "Article 19(1)(d)"],
+      "answer": 1,
+      "explanation": "Article 19(1)(b) guarantees to all citizens the right to assemble peaceably and without arms."
+    },
+    {
+      "q": "Which Article protects persons convicted of offences?",
+      "options": ["Article 19", "Article 20", "Article 21", "Article 22"],
+      "answer": 1,
+      "explanation": "Article 20 provides protection in respect of conviction for offences — protection against ex post facto laws, double jeopardy, and self-incrimination."
+    },
+    {
+      "q": "The principle of 'Double Jeopardy' is protected under which Article?",
+      "options": ["Article 20(1)", "Article 20(2)", "Article 20(3)", "Article 21"],
+      "answer": 1,
+      "explanation": "Article 20(2) states that no person shall be prosecuted and punished for the same offence more than once — this embodies the principle of double jeopardy."
+    },
+    {
+      "q": "Which Article provides that no person accused of any offence shall be compelled to be a witness against himself?",
+      "options": ["Article 20(1)", "Article 20(2)", "Article 20(3)", "Article 21"],
+      "answer": 2,
+      "explanation": "Article 20(3) provides the right against self-incrimination — no accused person shall be compelled to be a witness against himself."
+    },
+    {
+      "q": "Right to Life and Personal Liberty is guaranteed under which Article?",
+      "options": ["Article 19", "Article 20", "Article 21", "Article 22"],
+      "answer": 2,
+      "explanation": "Article 21 states that no person shall be deprived of his life or personal liberty except according to procedure established by law."
+    },
+    {
+      "q": "Right to Education for children aged 6-14 years is enshrined under which Article?",
+      "options": ["Article 21", "Article 21A", "Article 22", "Article 45"],
+      "answer": 1,
+      "explanation": "Article 21A was inserted by the 86th Constitutional Amendment Act, 2002, making free and compulsory education a fundamental right for children aged 6-14 years."
+    },
+    {
+      "q": "The 86th Constitutional Amendment that introduced Article 21A was enacted in which year?",
+      "options": ["1999", "2000", "2002", "2005"],
+      "answer": 2,
+      "explanation": "The 86th Constitutional Amendment Act was enacted in 2002, which inserted Article 21A providing right to education as a fundamental right."
+    },
+    {
+      "q": "Which Article provides protection against arrest and detention in certain cases?",
+      "options": ["Article 20", "Article 21", "Article 22", "Article 23"],
+      "answer": 2,
+      "explanation": "Article 22 provides protection against arbitrary arrest and detention, including the right to be informed of grounds of arrest, right to consult a lawyer, and production before magistrate within 24 hours."
+    },
+    {
+      "q": "As per Article 22, a detained person must be produced before the nearest magistrate within:",
+      "options": ["12 hours", "24 hours", "48 hours", "72 hours"],
+      "answer": 1,
+      "explanation": "Article 22(2) requires that every person arrested and detained must be produced before the nearest magistrate within 24 hours of arrest, excluding the time of journey."
+    },
+    {
+      "q": "Which Article prohibits traffic in human beings and forced labour?",
+      "options": ["Article 22", "Article 23", "Article 24", "Article 25"],
+      "answer": 1,
+      "explanation": "Article 23 prohibits traffic in human beings, begar (forced labour), and other similar forms of forced labour. Violation is punishable by law."
+    },
+    {
+      "q": "Which Article prohibits employment of children below 14 years in factories, mines, and hazardous employment?",
+      "options": ["Article 23", "Article 24", "Article 25", "Article 26"],
+      "answer": 1,
+      "explanation": "Article 24 prohibits employment of children below the age of 14 years in any factory, mine, or other hazardous employment."
+    },
+    {
+      "q": "Right to Freedom of Religion is guaranteed under which Articles?",
+      "options": ["Articles 19-22", "Articles 23-24", "Articles 25-28", "Articles 29-30"],
+      "answer": 2,
+      "explanation": "Articles 25 to 28 deal with the Right to Freedom of Religion — freedom of conscience, freedom to manage religious affairs, freedom from religious instruction in state-funded institutions, etc."
+    },
+    {
+      "q": "Which Article gives every religious denomination the right to establish and maintain institutions?",
+      "options": ["Article 25", "Article 26", "Article 27", "Article 28"],
+      "answer": 1,
+      "explanation": "Article 26 gives every religious denomination or any section thereof the right to establish and maintain institutions for religious and charitable purposes and manage its own affairs in matters of religion."
+    },
+    {
+      "q": "Which Article states that no person shall be compelled to pay taxes for promotion of any religion?",
+      "options": ["Article 25", "Article 26", "Article 27", "Article 28"],
+      "answer": 2,
+      "explanation": "Article 27 provides that no person shall be compelled to pay any taxes, the proceeds of which are specifically appropriated for the promotion or maintenance of any particular religion."
+    },
+    {
+      "q": "Which Article prohibits religious instruction in wholly State-funded educational institutions?",
+      "options": ["Article 25", "Article 26", "Article 27", "Article 28"],
+      "answer": 3,
+      "explanation": "Article 28 prohibits religious instruction in educational institutions wholly maintained out of State funds."
+    },
+    {
+      "q": "Cultural and Educational Rights are guaranteed under which Articles?",
+      "options": ["Articles 25-28", "Articles 29-30", "Articles 31-32", "Articles 19-22"],
+      "answer": 1,
+      "explanation": "Articles 29 and 30 deal with Cultural and Educational Rights — protection of interests of minorities and right of minorities to establish and administer educational institutions."
+    },
+    {
+      "q": "Which Article gives minorities the right to establish and administer educational institutions?",
+      "options": ["Article 28", "Article 29", "Article 30", "Article 31"],
+      "answer": 2,
+      "explanation": "Article 30 grants all minorities, whether based on religion or language, the right to establish and administer educational institutions of their choice."
+    },
+    {
+      "q": "Right to Constitutional Remedies is guaranteed under which Article?",
+      "options": ["Article 30", "Article 31", "Article 32", "Article 33"],
+      "answer": 2,
+      "explanation": "Article 32 provides the right to move the Supreme Court for enforcement of Fundamental Rights. Dr. Ambedkar called it the 'heart and soul' of the Constitution."
+    },
+    {
+      "q": "Who described Article 32 as the 'heart and soul of the Constitution'?",
+      "options": ["Jawaharlal Nehru", "Sardar Patel", "Dr. B.R. Ambedkar", "Rajendra Prasad"],
+      "answer": 2,
+      "explanation": "Dr. B.R. Ambedkar, the chief architect of the Indian Constitution, described Article 32 as the 'heart and soul of the Constitution'."
+    },
+    {
+      "q": "The Supreme Court can issue writs under which Article?",
+      "options": ["Article 31", "Article 32", "Article 226", "Article 32 and 226"],
+      "answer": 1,
+      "explanation": "The Supreme Court can issue writs under Article 32 for enforcement of Fundamental Rights. High Courts can also issue writs under Article 226 for a wider range of matters."
+    },
+    {
+      "q": "How many types of writs can be issued by the Supreme Court under Article 32?",
+      "options": ["3", "4", "5", "6"],
+      "answer": 2,
+      "explanation": "The Supreme Court can issue five types of writs: Habeas Corpus, Mandamus, Prohibition, Certiorari, and Quo Warranto."
+    },
+    {
+      "q": "Which writ literally means 'you may have the body'?",
+      "options": ["Mandamus", "Certiorari", "Habeas Corpus", "Quo Warranto"],
+      "answer": 2,
+      "explanation": "Habeas Corpus literally means 'you may have the body'. It is issued to produce a person before the court who has been detained unlawfully."
+    },
+    {
+      "q": "Which writ is issued to a lower court or tribunal to stop proceedings in a case?",
+      "options": ["Certiorari", "Prohibition", "Mandamus", "Quo Warranto"],
+      "answer": 1,
+      "explanation": "The writ of Prohibition is issued by a higher court to a lower court or tribunal directing it to stop proceedings in a case that exceeds its jurisdiction."
+    },
+    {
+      "q": "Which writ is issued to quash the order of a lower court?",
+      "options": ["Prohibition", "Certiorari", "Mandamus", "Habeas Corpus"],
+      "answer": 1,
+      "explanation": "The writ of Certiorari is issued to quash the order of a lower court, tribunal, or quasi-judicial body that has acted without or in excess of jurisdiction."
+    },
+    {
+      "q": "Which writ is issued to enquire into the legality of a claim of a person to a public office?",
+      "options": ["Mandamus", "Habeas Corpus", "Prohibition", "Quo Warranto"],
+      "answer": 3,
+      "explanation": "Quo Warranto (meaning 'by what authority') is issued to inquire into the legality of claim of a person to a public office."
+    },
+    {
+      "q": "Which writ commands a public authority to perform its public duty?",
+      "options": ["Certiorari", "Prohibition", "Mandamus", "Quo Warranto"],
+      "answer": 2,
+      "explanation": "Mandamus (meaning 'we command') is issued to a public official, body, corporation, or inferior court to perform a specific public duty imposed by law."
+    },
+    {
+      "q": "Fundamental Rights can be suspended during National Emergency except:",
+      "options": ["Articles 20 and 21", "Articles 19 and 20", "Articles 14 and 19", "Articles 32 and 226"],
+      "answer": 0,
+      "explanation": "During a National Emergency under Article 352, Fundamental Rights under Article 19 can be suspended. However, rights under Articles 20 and 21 cannot be suspended even during an Emergency."
+    },
+    {
+      "q": "Which amendment removed the Right to Property from the list of Fundamental Rights?",
+      "options": ["42nd Amendment", "44th Amendment", "46th Amendment", "52nd Amendment"],
+      "answer": 1,
+      "explanation": "The 44th Constitutional Amendment Act of 1978 removed the Right to Property (Article 19(1)(f) and Article 31) from Fundamental Rights and made it a legal right under Article 300A."
+    },
+    {
+      "q": "Right to Property is now a:",
+      "options": ["Fundamental Right", "Directive Principle", "Constitutional Right", "Statutory Right"],
+      "answer": 2,
+      "explanation": "After the 44th Amendment (1978), Right to Property is a constitutional right under Article 300A, not a Fundamental Right. It provides that no person shall be deprived of his property except by authority of law."
+    },
+    {
+      "q": "The doctrine of 'Procedure Established by Law' in Article 21 was interpreted liberally by the Supreme Court in which landmark case?",
+      "options": ["Golaknath Case", "Kesavananda Bharati Case", "Maneka Gandhi Case", "Minerva Mills Case"],
+      "answer": 2,
+      "explanation": "In Maneka Gandhi v. Union of India (1978), the Supreme Court held that the procedure established by law must be fair, just, and reasonable — moving closer to the American 'due process' doctrine."
+    },
+    {
+      "q": "In which case did the Supreme Court rule that Parliament cannot amend Fundamental Rights?",
+      "options": ["Shankari Prasad Case", "Sajjan Singh Case", "Golaknath Case", "Kesavananda Bharati Case"],
+      "answer": 2,
+      "explanation": "In the Golaknath Case (1967), the Supreme Court ruled that Parliament cannot amend Fundamental Rights. This was later overruled by the Kesavananda Bharati case (1973)."
+    },
+    {
+      "q": "In which case did the Supreme Court establish the 'Basic Structure Doctrine'?",
+      "options": ["Golaknath Case", "Minerva Mills Case", "Kesavananda Bharati Case", "Maneka Gandhi Case"],
+      "answer": 2,
+      "explanation": "In Kesavananda Bharati v. State of Kerala (1973), the Supreme Court held that Parliament can amend the Constitution but cannot alter its 'basic structure'. Fundamental Rights are part of the basic structure."
+    },
+    {
+      "q": "Which Article empowers Parliament to restrict Fundamental Rights of armed forces members?",
+      "options": ["Article 32", "Article 33", "Article 34", "Article 35"],
+      "answer": 1,
+      "explanation": "Article 33 empowers Parliament to restrict or abrogate the Fundamental Rights of members of the armed forces, paramilitary forces, police, and intelligence agencies."
+    },
+    {
+      "q": "Which Article allows Parliament to indemnify acts done during Martial Law?",
+      "options": ["Article 32", "Article 33", "Article 34", "Article 35"],
+      "answer": 2,
+      "explanation": "Article 34 provides for restriction on Fundamental Rights while martial law is in force in any area. Parliament can indemnify any person for acts done during martial law."
+    },
+    {
+      "q": "Which Article gives Parliament exclusive power to legislate for giving effect to Fundamental Rights?",
+      "options": ["Article 32", "Article 33", "Article 34", "Article 35"],
+      "answer": 3,
+      "explanation": "Article 35 gives Parliament (and not State Legislatures) the power to make laws relating to certain matters specified in Fundamental Rights, such as untouchability, traffic in human beings, etc."
+    },
+    {
+      "q": "Fundamental Rights are available against:",
+      "options": ["State only", "Private individuals only", "Both State and private individuals", "Neither"],
+      "answer": 0,
+      "explanation": "Fundamental Rights are primarily available against the State (as defined in Article 12). However, some rights like those under Articles 17 and 23 are also available against private individuals."
+    },
+    {
+      "q": "Which of the following is NOT a Fundamental Right?",
+      "options": ["Right to Equality", "Right to Education", "Right to Vote", "Right to Constitutional Remedies"],
+      "answer": 2,
+      "explanation": "Right to Vote is a constitutional/statutory right, not a Fundamental Right. It is governed by Article 326 and the Representation of the People Act."
+    },
+    {
+      "q": "Which Fundamental Right is available to both citizens and foreigners?",
+      "options": ["Article 15", "Article 16", "Article 19", "Article 21"],
+      "answer": 3,
+      "explanation": "Article 21 (Right to Life and Personal Liberty) is available to 'any person', including foreigners. Articles 15, 16, and 19 are available only to citizens."
+    },
+    {
+      "q": "The concept of 'Right to Privacy' as a Fundamental Right was confirmed by the Supreme Court in which case?",
+      "options": ["Maneka Gandhi Case", "Puttaswamy Case", "Shreya Singhal Case", "NALSA Case"],
+      "answer": 1,
+      "explanation": "In Justice K.S. Puttaswamy v. Union of India (2017), a 9-judge bench of the Supreme Court unanimously held that privacy is a fundamental right under Article 21."
+    },
+    {
+      "q": "Which Article provides that the State shall not discriminate in access to public places like shops, restaurants, hotels on grounds of religion, race, caste, sex, or place of birth?",
+      "options": ["Article 14", "Article 15(1)", "Article 15(2)", "Article 17"],
+      "answer": 2,
+      "explanation": "Article 15(2) prohibits discrimination against citizens on grounds of religion, race, caste, sex, or place of birth in access to shops, public restaurants, hotels, and places of public entertainment or public resort."
+    },
+    {
+      "q": "The freedom of press is implied under which Article?",
+      "options": ["Article 19(1)(a)", "Article 19(1)(b)", "Article 19(1)(c)", "Article 19(1)(g)"],
+      "answer": 0,
+      "explanation": "Freedom of press is not separately mentioned but is implied in Article 19(1)(a) which guarantees freedom of speech and expression."
+    },
+    {
+      "q": "Which Article provides for freedom to practice any profession or to carry on any occupation, trade, or business?",
+      "options": ["Article 19(1)(e)", "Article 19(1)(f)", "Article 19(1)(g)", "Article 19(1)(h)"],
+      "answer": 2,
+      "explanation": "Article 19(1)(g) guarantees to all citizens the right to practise any profession or to carry on any occupation, trade, or business."
+    },
+    {
+      "q": "'Begar' mentioned in Article 23 refers to:",
+      "options": ["Begging", "Forced labour without payment", "Child labour", "Bonded labour"],
+      "answer": 1,
+      "explanation": "Begar refers to a form of forced labour where a person is compelled to work without any remuneration (payment). Article 23 prohibits begar and other forms of forced labour."
+    },
+    {
+      "q": "Which case held that Right to Education is a Fundamental Right under Article 21?",
+      "options": ["Mohini Jain Case", "Unni Krishnan Case", "TMA Pai Case", "P.A. Inamdar Case"],
+      "answer": 1,
+      "explanation": "In Unni Krishnan v. State of Andhra Pradesh (1993), the Supreme Court held that right to education up to 14 years of age is a Fundamental Right flowing from Article 21."
+    },
+    {
+      "q": "Which Article protects the culture of minorities?",
+      "options": ["Article 28", "Article 29", "Article 30", "Article 31"],
+      "answer": 1,
+      "explanation": "Article 29 protects the interests of minorities and gives any section of citizens the right to conserve its distinct language, script, or culture."
+    },
+    {
+      "q": "In which case did the Supreme Court uphold the validity of reservations in promotions for SCs and STs?",
+      "options": ["Indra Sawhney Case", "Nagaraj Case", "Jarnail Singh Case", "M.R. Balaji Case"],
+      "answer": 1,
+      "explanation": "In M. Nagaraj v. Union of India (2006), the Supreme Court upheld the constitutional validity of Article 16(4A) allowing reservations in promotions for SCs and STs, subject to collection of quantifiable data on backwardness and inadequate representation."
+    },
+    {
+      "q": "The Mandal Commission report related to which Article?",
+      "options": ["Article 15(4)", "Article 16(4)", "Article 335", "Article 46"],
+      "answer": 1,
+      "explanation": "The Mandal Commission recommended reservations for Other Backward Classes (OBCs) in central government jobs, which relates to Article 16(4) that allows reservations for backward classes in public employment."
+    },
+    {
+      "q": "What is the maximum period for which a person can be detained under Preventive Detention without advisory board opinion?",
+      "options": ["1 month", "2 months", "3 months", "6 months"],
+      "answer": 2,
+      "explanation": "Article 22(4) provides that no law providing for preventive detention shall authorise the detention of a person for a period longer than 3 months unless an advisory board has reported that there is sufficient cause for such detention."
+    },
+    {
+      "q": "Right to free legal aid is implied under which Article?",
+      "options": ["Article 20", "Article 21", "Article 22", "Article 39A"],
+      "answer": 1,
+      "explanation": "In Hussainara Khatoon v. State of Bihar (1979), the Supreme Court held that right to free legal aid for the poor is a fundamental right under Article 21."
+    },
+    {
+      "q": "Which Article allows Parliament to authorize State Legislatures to make laws for certain Fundamental Rights?",
+      "options": ["Article 33", "Article 34", "Article 35", "Article 246"],
+      "answer": 2,
+      "explanation": "Article 35 allows Parliament (exclusively) to make laws on certain matters relating to Fundamental Rights. Parliament can also authorize State Legislatures for this purpose."
+    },
+    {
+      "q": "Protection against ex-post facto law is guaranteed under which Article?",
+      "options": ["Article 20(1)", "Article 20(2)", "Article 20(3)", "Article 21"],
+      "answer": 0,
+      "explanation": "Article 20(1) provides protection against ex-post facto laws — no person shall be convicted of any offence except for violation of a law in force at the time of the commission of the act."
+    },
+    {
+      "q": "Which of the following rights cannot be suspended even during a National Emergency?",
+      "options": ["Article 14", "Article 19", "Article 21", "Article 25"],
+      "answer": 2,
+      "explanation": "Articles 20 and 21 cannot be suspended even during a National Emergency under Article 352. All other Fundamental Rights can be suspended."
+    },
+    {
+      "q": "In which case was it held that handcuffing of prisoners is a violation of Article 21?",
+      "options": ["Sunil Batra Case", "Prem Shankar Shukla Case", "D.K. Basu Case", "Hussainara Khatoon Case"],
+      "answer": 1,
+      "explanation": "In Prem Shankar Shukla v. Delhi Administration (1980), the Supreme Court held that handcuffing of prisoners violates their dignity under Article 21 and should be done only in exceptional circumstances."
+    },
+    {
+      "q": "D.K. Basu guidelines are related to which Fundamental Right?",
+      "options": ["Right to Equality", "Right to Life", "Right against Exploitation", "Right to Religion"],
+      "answer": 1,
+      "explanation": "D.K. Basu v. State of West Bengal (1997) laid down guidelines to be followed during arrest and detention to protect the Right to Life and Personal Liberty under Article 21 and prevent custodial deaths."
+    },
+    {
+      "q": "The right to live with human dignity flows from which Article?",
+      "options": ["Article 14", "Article 17", "Article 21", "Article 23"],
+      "answer": 2,
+      "explanation": "The Supreme Court has interpreted Article 21 broadly to include the right to live with human dignity, deriving it from Articles 38 and 39 as well."
+    },
+    {
+      "q": "Which Amendment Act introduced reservation for socially and educationally backward classes in private unaided institutions?",
+      "options": ["86th Amendment", "93rd Amendment", "97th Amendment", "101st Amendment"],
+      "answer": 1,
+      "explanation": "The 93rd Constitutional Amendment Act (2005) inserted Article 15(5), enabling the State to make special provisions for advancement of socially and educationally backward classes in private unaided educational institutions also."
+    },
+    {
+      "q": "Section 377 IPC was read down in which Supreme Court case, relating to Article 21?",
+      "options": ["Naz Foundation Case", "Navtej Singh Johar Case", "Puttaswamy Case", "NALSA Case"],
+      "answer": 1,
+      "explanation": "In Navtej Singh Johar v. Union of India (2018), the Supreme Court unanimously struck down Section 377 IPC as it criminalised consensual same-sex relations among adults, violating Articles 14, 15, 19, and 21."
+    },
+    {
+      "q": "Which Article provides that the State shall not deny to any person equality before the law?",
+      "options": ["Article 12", "Article 13", "Article 14", "Article 15"],
+      "answer": 2,
+      "explanation": "Article 14 guarantees equality before law and equal protection of laws to every person within the territory of India."
+    },
+    {
+      "q": "In which landmark case did the Supreme Court hold that LGBTQ+ persons have equal rights under the Constitution?",
+      "options": ["Naz Foundation Case", "NALSA Case", "Navtej Singh Johar Case", "Puttaswamy Case"],
+      "answer": 2,
+      "explanation": "In Navtej Singh Johar v. Union of India (2018), the Supreme Court affirmed that LGBTQ+ persons have full fundamental rights including dignity, equality, and privacy."
+    },
+    {
+      "q": "Which writ cannot be issued against a private individual?",
+      "options": ["Habeas Corpus", "Mandamus", "Certiorari", "Quo Warranto"],
+      "answer": 1,
+      "explanation": "Mandamus is issued to public authorities and government bodies to perform their public duties. It cannot be issued against a private individual or body."
+    },
+    {
+      "q": "Right to speedy trial is a fundamental right under which Article?",
+      "options": ["Article 20", "Article 21", "Article 22", "Article 32"],
+      "answer": 1,
+      "explanation": "The Supreme Court in Hussainara Khatoon Case (1979) held that the right to speedy trial is an essential ingredient of reasonable, fair, and just procedure under Article 21."
+    },
+    {
+      "q": "Which Article prevents the State from establishing a state religion?",
+      "options": ["Article 25", "Article 26", "Article 27", "Article 28"],
+      "answer": 2,
+      "explanation": "Article 27 prevents the State from compelling any person to pay taxes for the promotion or maintenance of any particular religion, effectively preventing the establishment of a state religion."
+    },
+    {
+      "q": "Under which article can a High Court issue writs for enforcement of Fundamental Rights?",
+      "options": ["Article 32", "Article 136", "Article 226", "Article 227"],
+      "answer": 2,
+      "explanation": "Article 226 empowers High Courts to issue writs, not only for enforcement of Fundamental Rights but also for any other purpose, giving it a wider jurisdiction than Article 32."
+    },
+    {
+      "q": "Right to Constitutional Remedies under Article 32 itself is a Fundamental Right. This right can be:",
+      "options": ["Suspended at any time by Parliament", "Suspended only during Emergency", "Never suspended", "Suspended by the President"],
+      "answer": 1,
+      "explanation": "Article 32 can be suspended only when a National Emergency is proclaimed under Article 352. However, Articles 20 and 21 cannot be suspended even during an Emergency."
+    },
+    {
+      "q": "Which fundamental right protects against conviction under a law that did not exist at the time of the act?",
+      "options": ["Right against double jeopardy", "Right against ex-post facto laws", "Right against self-incrimination", "Right to life"],
+      "answer": 1,
+      "explanation": "Article 20(1) provides protection against ex-post facto laws — no person can be convicted for an act which was not an offence at the time it was committed."
+    },
+    {
+      "q": "Which of the following is included in the Right against Exploitation?",
+      "options": ["Right to education", "Abolition of untouchability", "Prohibition of traffic in human beings", "Freedom of religion"],
+      "answer": 2,
+      "explanation": "The Right against Exploitation (Articles 23-24) includes: prohibition of traffic in human beings and forced labour (Article 23) and prohibition of employment of children in hazardous work (Article 24)."
+    },
+    {
+      "q": "The phrase 'procedure established by law' in Article 21 was held to mean just, fair, and reasonable procedure in which case?",
+      "options": ["A.K. Gopalan Case", "Maneka Gandhi Case", "Kesavananda Bharati Case", "Olga Tellis Case"],
+      "answer": 1,
+      "explanation": "In Maneka Gandhi v. Union of India (1978), the Supreme Court overruled the narrow interpretation of A.K. Gopalan case and held that procedure must be just, fair, and reasonable."
+    },
+    {
+      "q": "Right to livelihood is considered part of which Article?",
+      "options": ["Article 19(1)(g)", "Article 21", "Article 39", "Both Article 19(1)(g) and 21"],
+      "answer": 3,
+      "explanation": "The Supreme Court in Olga Tellis v. Bombay Municipal Corporation (1985) held that the right to livelihood is part of both Article 19(1)(g) and Article 21, as deprivation of livelihood means deprivation of life."
+    },
+    {
+      "q": "Protective discrimination in favour of backward classes is permitted under:",
+      "options": ["Article 14", "Article 15(4) and 16(4)", "Article 17", "Article 335"],
+      "answer": 1,
+      "explanation": "Articles 15(4) and 16(4) provide for protective discrimination — the State can make special provisions for the advancement of socially and educationally backward classes and SCs/STs."
+    },
+    {
+      "q": "The Fundamental Rights were first introduced in which committee report before independence?",
+      "options": ["Simon Commission Report", "Nehru Report 1928", "Cripps Mission Report", "Cabinet Mission Plan"],
+      "answer": 1,
+      "explanation": "The Nehru Report of 1928 was the first significant Indian constitutional document to demand Fundamental Rights as part of the constitutional framework."
+    },
+    {
+      "q": "How many Fundamental Rights are currently guaranteed by the Indian Constitution?",
+      "options": ["5", "6", "7", "8"],
+      "answer": 1,
+      "explanation": "Currently 6 Fundamental Rights are guaranteed: Right to Equality (14-18), Right to Freedom (19-22), Right against Exploitation (23-24), Right to Freedom of Religion (25-28), Cultural & Educational Rights (29-30), and Right to Constitutional Remedies (32)."
+    },
+    {
+      "q": "Which Fundamental Right was described by Granville Austin as the 'Cornerstone of the democratic edifice'?",
+      "options": ["Right to Freedom", "Right to Equality", "Right to Constitutional Remedies", "Right to Life"],
+      "answer": 1,
+      "explanation": "Granville Austin described the Right to Equality as the cornerstone of the democratic edifice, emphasizing its central importance to Indian democracy."
+    },
+    {
+      "q": "In the Indra Sawhney Case (Mandal Case), the Supreme Court fixed the maximum limit of reservation at:",
+      "options": ["40%", "49.5%", "50%", "60%"],
+      "answer": 2,
+      "explanation": "In Indra Sawhney v. Union of India (1992), the Supreme Court upheld 27% reservation for OBCs but ruled that total reservation should not exceed 50% (which includes 22.5% for SCs/STs + 27% for OBCs = 49.5%)."
+    },
+    {
+      "q": "Article 15(5) was added to the Constitution by which amendment?",
+      "options": ["86th Amendment", "93rd Amendment", "97th Amendment", "101st Amendment"],
+      "answer": 1,
+      "explanation": "Article 15(5) was inserted by the 93rd Constitutional Amendment Act, 2005, allowing the State to make special provisions for advancement of backward classes in private unaided institutions."
+    },
+    {
+      "q": "The right to shelter is considered a fundamental right under which Article?",
+      "options": ["Article 14", "Article 19(1)(e)", "Article 21", "Article 38"],
+      "answer": 2,
+      "explanation": "The Supreme Court in Chameli Singh v. State of Uttar Pradesh (1996) held that the right to shelter is a fundamental right under Article 21 as it is part of the right to live with human dignity."
+    },
+    {
+      "q": "Right to freedom of movement (Article 19(1)(d)) means freedom to move:",
+      "options": ["Anywhere in the world", "Throughout the territory of India", "Within one's own state", "To any foreign country"],
+      "answer": 1,
+      "explanation": "Article 19(1)(d) guarantees to all citizens the right to move freely throughout the territory of India, subject to reasonable restrictions."
+    },
+    {
+      "q": "Which landmark judgment expanded Article 21 to include right to health?",
+      "options": ["Bandhua Mukti Morcha Case", "Paschim Banga Khet Mazdoor Case", "Consumer Education and Research Centre Case", "Parmanand Katara Case"],
+      "answer": 2,
+      "explanation": "In Consumer Education and Research Centre v. Union of India (1995), the Supreme Court held that the right to health and medical assistance is a fundamental right under Article 21."
+    },
+    {
+      "q": "Which Article provides that the State can make special provision for the advancement of socially and educationally backward classes?",
+      "options": ["Article 15(3)", "Article 15(4)", "Article 16(4)", "Both 15(4) and 16(4)"],
+      "answer": 3,
+      "explanation": "Both Article 15(4) and 16(4) permit the State to make special provisions for socially and educationally backward classes and SCs/STs in educational admissions and public employment respectively."
+    },
+    {
+      "q": "Which of the following rights is available only to Indian citizens?",
+      "options": ["Right to Life (Art 21)", "Equality before Law (Art 14)", "Right to Freedom of Speech (Art 19)", "Right against Exploitation (Art 23)"],
+      "answer": 2,
+      "explanation": "The rights under Article 19 (including freedom of speech) are available only to citizens of India. Rights under Articles 14, 20, 21, 23, and 24 are available to both citizens and non-citizens."
+    },
+    {
+      "q": "Which Article gives Parliament the power to modify Fundamental Rights for armed forces?",
+      "options": ["Article 32", "Article 33", "Article 34", "Article 35"],
+      "answer": 1,
+      "explanation": "Article 33 gives Parliament the power to restrict or abrogate the Fundamental Rights of members of the armed forces, police forces, and intelligence agencies."
+    },
+    {
+      "q": "The Doctrine of Severability in relation to Fundamental Rights means:",
+      "options": ["The entire law is void if any part violates Fundamental Rights", "Only the inconsistent part of the law is void, not the whole law", "Fundamental Rights can be severed from the Constitution", "Courts can sever Fundamental Rights from each other"],
+      "answer": 1,
+      "explanation": "Under Article 13, if a part of a law violates Fundamental Rights, only that part is void (doctrine of severability) and the rest of the law remains valid."
+    },
+    {
+      "q": "Which of the following is an exception to the Right to Freedom of Speech under Article 19(2)?",
+      "options": ["Public order", "Sovereignty and integrity of India", "Relations with foreign states", "All of the above"],
+      "answer": 3,
+      "explanation": "Article 19(2) allows the State to impose reasonable restrictions on freedom of speech on grounds of: sovereignty & integrity of India, security of the state, friendly relations with foreign states, public order, decency or morality, contempt of court, defamation, and incitement to offence."
+    },
+    {
+      "q": "Who among the following is NOT covered by Article 12's definition of 'State'?",
+      "options": ["Parliament of India", "ONGC (a government company)", "A private individual", "Municipal Corporation"],
+      "answer": 2,
+      "explanation": "Article 12 defines 'State' to include the Government of India, Parliament, State Governments and Legislatures, and all local and other authorities. A private individual is not 'State'."
+    },
+    {
+      "q": "Under the Right to Freedom of Religion (Article 25), the State can regulate:",
+      "options": ["Purely religious matters", "Economic, financial, political and other secular activities associated with religious practice", "Rituals and worship", "Religious texts"],
+      "answer": 1,
+      "explanation": "Article 25(2) allows the State to regulate or restrict any economic, financial, political, or other secular activity associated with religious practice, and to provide for social welfare and reform."
+    },
+    {
+      "q": "Which of the following Fundamental Rights is in the nature of a 'negative obligation' on the State?",
+      "options": ["Article 21A", "Article 17", "Article 14", "Article 23"],
+      "answer": 2,
+      "explanation": "Article 14 imposes a negative obligation on the State — it prohibits the State from denying equality before law. Most Fundamental Rights are negative in nature (prohibiting State action)."
+    },
+    {
+      "q": "Under Article 30, minorities can be based on:",
+      "options": ["Religion only", "Language only", "Religion or language", "Religion, language, or caste"],
+      "answer": 2,
+      "explanation": "Article 30 protects the rights of minorities based on religion or language (not caste). Both religious and linguistic minorities have the right to establish and administer educational institutions."
+    },
+    {
+      "q": "Which Article provides for reservation of seats for SCs and STs in the House of the People?",
+      "options": ["Article 15", "Article 16", "Article 330", "Article 332"],
+      "answer": 2,
+      "explanation": "Article 330 provides for reservation of seats for Scheduled Castes and Scheduled Tribes in the House of the People (Lok Sabha)."
+    },
+    {
+      "q": "The right to vote is guaranteed under which provision?",
+      "options": ["Article 14", "Article 19", "Article 326", "Article 21"],
+      "answer": 2,
+      "explanation": "The right to vote is guaranteed under Article 326 of the Constitution, which provides for elections to the House of the People and the Legislative Assemblies on the basis of adult suffrage."
+    },
+    {
+      "q": "Which of the following writs can be issued by both the Supreme Court and High Courts?",
+      "options": ["Only Habeas Corpus", "All five writs", "Only Mandamus and Certiorari", "Only Quo Warranto"],
+      "answer": 1,
+      "explanation": "All five writs (Habeas Corpus, Mandamus, Prohibition, Certiorari, and Quo Warranto) can be issued by both the Supreme Court (under Article 32) and High Courts (under Article 226)."
+    },
+    {
+      "q": "Which case held that solitary confinement of a prisoner is a violation of Article 21?",
+      "options": ["D.K. Basu Case", "Sunil Batra v. Delhi Administration", "Hussainara Khatoon Case", "Prem Shankar Shukla Case"],
+      "answer": 1,
+      "explanation": "In Sunil Batra v. Delhi Administration (1978), the Supreme Court held that solitary confinement and bar fetters constitute cruel punishment and violate the fundamental rights of prisoners under Article 21."
+    },
+    {
+      "q": "Right to Internet access was held to be a fundamental right under Article 19(1)(a) by the Supreme Court in which case?",
+      "options": ["Shreya Singhal Case", "Anuradha Bhasin Case", "Puttaswamy Case", "Navtej Johar Case"],
+      "answer": 1,
+      "explanation": "In Anuradha Bhasin v. Union of India (2020), the Supreme Court held that access to internet is a fundamental right under Article 19(1)(a) and 19(1)(g) of the Constitution."
+    },
+    {
+      "q": "Which case declared Section 66A of the IT Act unconstitutional for violating Article 19(1)(a)?",
+      "options": ["Anuradha Bhasin Case", "Shreya Singhal Case", "Puttaswamy Case", "Navtej Johar Case"],
+      "answer": 1,
+      "explanation": "In Shreya Singhal v. Union of India (2015), the Supreme Court struck down Section 66A of the Information Technology Act as unconstitutional for violating freedom of speech and expression under Article 19(1)(a)."
+    },
+    {
+      "q": "In the NALSA judgment, the Supreme Court recognized which community's fundamental rights?",
+      "options": ["Refugees", "Transgender persons", "Prisoners", "Migrant workers"],
+      "answer": 1,
+      "explanation": "In National Legal Services Authority (NALSA) v. Union of India (2014), the Supreme Court recognized transgender persons as the 'third gender' and held that they are entitled to all fundamental rights under the Constitution."
+    },
+    {
+      "q": "Which Article provides that the State shall not deny admission to educational institutions maintained by the State or receiving aid from State funds on grounds of religion, race, caste, language, or any of them?",
+      "options": ["Article 15(1)", "Article 15(2)", "Article 29(2)", "Article 30"],
+      "answer": 2,
+      "explanation": "Article 29(2) provides that no citizen shall be denied admission to any educational institution maintained by the State or receiving aid out of State funds on grounds only of religion, race, caste, language, or any of them."
+    },
+    {
+      "q": "The term 'minority' is not defined in the Constitution but refers to communities which are:",
+      "options": ["Numerically less than 50% of the total population", "Less than 25% of the population", "Economically backward", "Socially backward"],
+      "answer": 0,
+      "explanation": "Though the Constitution doesn't define 'minority', it is generally understood to mean communities (religious or linguistic) numerically less than 50% in a given state or in the country as a whole."
+    },
+    {
+      "q": "Right to die / euthanasia in the context of terminally ill patients was addressed in which Supreme Court case?",
+      "options": ["Gian Kaur Case", "Aruna Shanbaug Case", "Common Cause v. Union of India", "Both Aruna Shanbaug and Common Cause cases"],
+      "answer": 3,
+      "explanation": "In Aruna Shanbaug (2011) and Common Cause v. Union of India (2018), the Supreme Court addressed passive euthanasia and living wills, holding that the right to die with dignity is part of Article 21."
+    },
+    {
+      "q": "Which case first held that the Right to Life under Article 21 includes the right to a clean environment?",
+      "options": ["M.C. Mehta v. Union of India", "Rural Litigation Case", "Vellore Citizens Welfare Forum Case", "Subhash Kumar Case"],
+      "answer": 3,
+      "explanation": "In Subhash Kumar v. State of Bihar (1991), the Supreme Court held that the right to live includes the right to enjoyment of pollution-free water and air, which is a part of Article 21."
+    },
+    {
+      "q": "Which provision empowers the State to make laws providing for reservation in promotion for SC and ST employees?",
+      "options": ["Article 16(4)", "Article 16(4A)", "Article 16(4B)", "Article 335"],
+      "answer": 1,
+      "explanation": "Article 16(4A) was inserted by the 77th Constitutional Amendment Act, 1995 to empower the State to make provisions for reservation in matters of promotion to any class or classes of posts for SCs and STs."
+    },
+    {
+      "q": "The 'creamy layer' concept in OBC reservations was introduced in which case?",
+      "options": ["M.R. Balaji Case", "Indra Sawhney Case", "Nagaraj Case", "Mandal Case"],
+      "answer": 1,
+      "explanation": "In Indra Sawhney v. Union of India (1992), the Supreme Court introduced the 'creamy layer' concept, excluding the more affluent and advanced sections of OBCs from reservation benefits."
+    },
+    {
+      "q": "Which Article states that the right to move the Supreme Court shall not be suspended except as otherwise provided in the Constitution?",
+      "options": ["Article 21", "Article 32(4)", "Article 358", "Article 359"],
+      "answer": 1,
+      "explanation": "Article 32(4) provides that the right guaranteed by this article shall not be suspended except as otherwise provided in the Constitution (i.e., only when Article 359 applies during Emergency)."
+    },
+    {
+      "q": "Article 19(1)(f) which guaranteed the right to property was repealed by which constitutional amendment?",
+      "options": ["42nd Amendment", "44th Amendment", "45th Amendment", "46th Amendment"],
+      "answer": 1,
+      "explanation": "The 44th Constitutional Amendment Act, 1978 repealed Article 19(1)(f) (right to acquire, hold and dispose of property) and Article 31, removing property rights from Fundamental Rights."
+    },
+    {
+      "q": "Which Fundamental Right has been used by courts to protect the rights of bonded labourers?",
+      "options": ["Article 14", "Article 17", "Article 23", "Article 21"],
+      "answer": 2,
+      "explanation": "Article 23 prohibits traffic in human beings and forced labour, including bonded labour. The Bonded Labour System (Abolition) Act, 1976 was enacted under this Article."
+    },
+    {
+      "q": "Which case established that the right to reputation is part of the right to life under Article 21?",
+      "options": ["Rajagopal v. State of Tamil Nadu", "Subramanian Swamy v. Union of India", "R. Rajagopal Case", "Both A and C"],
+      "answer": 3,
+      "explanation": "In R. Rajagopal v. State of Tamil Nadu (1994), the Supreme Court held that the right to reputation is part of Article 21 and also recognized the right to privacy as a Fundamental Right."
+    },
+    {
+      "q": "Under Article 22, which of the following persons is NOT entitled to the protections provided?",
+      "options": ["A person arrested for a criminal offence", "An enemy alien", "A person detained under preventive detention", "A person arrested under ordinary criminal law"],
+      "answer": 1,
+      "explanation": "Article 22(3) provides that the protections under Article 22(1) and (2) do not apply to enemy aliens or persons arrested or detained under any preventive detention law."
+    },
+    {
+      "q": "The concept of 'Positive Secularism' in the Indian Constitution means:",
+      "options": ["Complete separation of State and religion", "State hostility towards all religions", "Equal respect for all religions by the State", "State promotion of one religion"],
+      "answer": 2,
+      "explanation": "India follows 'positive secularism' which means equal respect for all religions (Sarva Dharma Sama Bhava), unlike the Western concept of strict separation of church and state."
+    },
+    {
+      "q": "Which of the following acts was passed by Parliament to give effect to Article 17 (Abolition of Untouchability)?",
+      "options": ["Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act", "Protection of Civil Rights Act, 1955", "Untouchability (Offences) Act", "All of the above"],
+      "answer": 3,
+      "explanation": "Parliament enacted: the Untouchability (Offences) Act, 1955 (later renamed Protection of Civil Rights Act, 1955) and the SC/ST (Prevention of Atrocities) Act, 1989 to give effect to Article 17."
+    },
+    {
+      "q": "Which Article provides that Parliament shall have exclusive power to make laws on matters relating to certain Fundamental Rights?",
+      "options": ["Article 33", "Article 34", "Article 35", "Article 246"],
+      "answer": 2,
+      "explanation": "Article 35 gives Parliament (not State Legislatures) the exclusive power to make laws on matters related to Fundamental Rights such as punishment for acts prohibited under Articles 17, 23, 24, etc."
+    },
+    {
+      "q": "Freedom of conscience guaranteed under Article 25 means:",
+      "options": ["Right to propagate religion only", "Right to have religious beliefs of one's own choice", "Right to establish religious institutions", "Right to receive religious instruction"],
+      "answer": 1,
+      "explanation": "Freedom of conscience means the inner freedom of an individual to mould his/her religious beliefs — the right to have any religious belief or no religious belief at all."
+    },
+    {
+      "q": "Which case established that environment protection is part of Article 21?",
+      "options": ["M.C. Mehta v. Union of India", "Vellore Citizens Welfare Forum v. Union of India", "T.N. Godavarman Case", "Rural Litigation & Entitlement Kendra Case"],
+      "answer": 0,
+      "explanation": "In M.C. Mehta v. Union of India (various cases), the Supreme Court consistently held that the right to clean environment is part of the right to life under Article 21."
+    },
+    {
+      "q": "Which article provides that the State shall endeavour to secure the right to work?",
+      "options": ["Article 19(1)(g)", "Article 21", "Article 41", "Article 16"],
+      "answer": 2,
+      "explanation": "Article 41 is a Directive Principle of State Policy (not a Fundamental Right) that directs the State to make provisions for securing the right to work. Article 19(1)(g) is the Fundamental Right related to profession."
+    },
+    {
+      "q": "Which Article of the Constitution deals with the right of a person to reside and settle in any part of India?",
+      "options": ["Article 19(1)(d)", "Article 19(1)(e)", "Article 19(1)(f)", "Article 19(1)(g)"],
+      "answer": 1,
+      "explanation": "Article 19(1)(e) guarantees to all citizens the right to reside and settle in any part of the territory of India."
+    },
+    {
+      "q": "In which year was the Right to Education Act enacted?",
+      "options": ["2005", "2007", "2009", "2012"],
+      "answer": 2,
+      "explanation": "The Right of Children to Free and Compulsory Education (RTE) Act was enacted in 2009 to give effect to Article 21A, which was inserted by the 86th Constitutional Amendment of 2002."
+    },
+    {
+      "q": "The Constitution (First Amendment) Act, 1951 added which clause to Article 15 to protect laws providing reservation?",
+      "options": ["Article 15(3)", "Article 15(4)", "Article 15(5)", "Article 15(6)"],
+      "answer": 1,
+      "explanation": "The Constitution (First Amendment) Act, 1951 added Article 15(4) to protect State laws providing for special measures for socially and educationally backward classes, overruling the Supreme Court's decision in State of Madras v. Champakam Dorairajan."
+    },
+    {
+      "q": "Which case challenged the Mandal Commission recommendations for OBC reservations?",
+      "options": ["Champakam Dorairajan Case", "Balaji Case", "Indra Sawhney Case", "Nagaraj Case"],
+      "answer": 2,
+      "explanation": "The Indra Sawhney Case (1992), popularly known as the Mandal Commission Case, challenged the V.P. Singh government's decision to implement 27% reservations for OBCs in central government jobs."
+    },
+    {
+      "q": "Which Article permits the State to make special provisions for the advancement of EWS (Economically Weaker Sections)?",
+      "options": ["Article 15(4)", "Article 15(5)", "Article 15(6)", "Article 16(4)"],
+      "answer": 2,
+      "explanation": "Article 15(6) and Article 16(6) were inserted by the 103rd Constitutional Amendment Act, 2019 to permit 10% reservation for Economically Weaker Sections (EWS) among the general category."
+    },
+    {
+      "q": "The 103rd Constitutional Amendment providing 10% EWS reservation was upheld by the Supreme Court in which case?",
+      "options": ["Indra Sawhney Case", "Nagaraj Case", "Janhit Abhiyan Case", "Puttaswamy Case"],
+      "answer": 2,
+      "explanation": "In Janhit Abhiyan v. Union of India (2022), a 5-judge Constitution Bench upheld the 103rd Constitutional Amendment providing 10% reservation for EWS by a 3:2 majority."
+    },
+    {
+      "q": "The writ of Habeas Corpus can be issued against:",
+      "options": ["Only public authorities", "Only private individuals", "Both public authorities and private individuals", "Only courts"],
+      "answer": 2,
+      "explanation": "Unlike Mandamus, the writ of Habeas Corpus can be issued against both public authorities and private individuals to secure the release of a person who has been unlawfully detained."
+    },
+    {
+      "q": "Which Article declares that untouchability shall be an offence punishable in accordance with law?",
+      "options": ["Article 15", "Article 16", "Article 17", "Article 18"],
+      "answer": 2,
+      "explanation": "Article 17 not only abolishes untouchability but also provides that the enforcement of any disability arising out of untouchability shall be an offence punishable in accordance with law."
+    },
+    {
+      "q": "The right to die was rejected as a fundamental right in which early Supreme Court case?",
+      "options": ["Gian Kaur Case", "P. Rathinam Case", "Aruna Shanbaug Case", "Naresh Marotrao Case"],
+      "answer": 0,
+      "explanation": "In Gian Kaur v. State of Punjab (1996), a 5-judge Constitution Bench held that the right to die is not a Fundamental Right under Article 21. The right to life does not include the right to die."
+    },
+    {
+      "q": "Which of the following is a reasonable restriction on the right to assemble under Article 19(3)?",
+      "options": ["Sovereignty and integrity of India", "Public order", "Both A and B", "Neither A nor B"],
+      "answer": 2,
+      "explanation": "Article 19(3) allows the State to impose reasonable restrictions on the right to assemble peaceably on grounds of sovereignty and integrity of India or public order."
+    },
+    {
+      "q": "Freedom of association guaranteed under Article 19(1)(c) includes the right to:",
+      "options": ["Form political parties", "Form trade unions", "Form cooperative societies", "All of the above"],
+      "answer": 3,
+      "explanation": "Article 19(1)(c) guarantees freedom of association, which includes the right to form political parties, trade unions, cooperative societies, and other associations."
+    },
+    {
+      "q": "In which year was Article 21A (Right to Education) inserted in the Constitution?",
+      "options": ["1999", "2000", "2002", "2006"],
+      "answer": 2,
+      "explanation": "Article 21A was inserted by the 86th Constitutional Amendment Act, 2002, making free and compulsory education a Fundamental Right for children between 6 to 14 years of age."
+    },
+    {
+      "q": "Which Fundamental Right cannot be waived by an individual?",
+      "options": ["Right to Freedom of Speech", "Right to move Supreme Court", "All Fundamental Rights", "Fundamental Rights cannot be waived"],
+      "answer": 3,
+      "explanation": "Fundamental Rights cannot be waived by an individual. They are constitutional guarantees and a citizen cannot waive them even voluntarily, as held in Behram Khurshed Pesikaka v. State of Bombay."
+    },
+    {
+      "q": "Which landmark case held that the right to be forgotten (in the digital context) flows from the right to privacy?",
+      "options": ["Puttaswamy Case", "Jorawer Singh Mundy Case", "Anuradha Bhasin Case", "Shreya Singhal Case"],
+      "answer": 0,
+      "explanation": "The Puttaswamy judgment (2017) recognized privacy as a Fundamental Right and its implications include the right to be forgotten — a person's right to have their past information removed from the internet."
+    },
+    {
+      "q": "The expression 'equal protection of laws' in Article 14 is borrowed from which country's constitution?",
+      "options": ["United Kingdom", "United States of America", "Australia", "Canada"],
+      "answer": 1,
+      "explanation": "'Equal protection of the laws' is borrowed from the 14th Amendment of the US Constitution. 'Equality before law' is borrowed from the English concept of Rule of Law by A.V. Dicey."
+    },
+    {
+      "q": "Which case decided that reservations cannot be applied in super-speciality medical courses?",
+      "options": ["TMA Pai Case", "P.A. Inamdar Case", "Pradeep Jain Case", "Abhiram Singh Case"],
+      "answer": 2,
+      "explanation": "In Pradeep Jain v. Union of India (1984), the Supreme Court held that merit should be the sole criterion for admission to super-speciality courses like MD, MS, and that reservation cannot be applied in these cases."
+    },
+    {
+      "q": "Which Article of the Constitution provides protection to persons in public employment regarding dismissal or reduction in rank?",
+      "options": ["Article 309", "Article 310", "Article 311", "Article 312"],
+      "answer": 2,
+      "explanation": "Article 311 provides safeguards to civil servants against arbitrary dismissal or reduction in rank. It requires an inquiry to be held and reasonable opportunity to be given before dismissal or reduction in rank."
+    },
+    {
+      "q": "The right to know (right to information) was held to be part of which Fundamental Right?",
+      "options": ["Article 14", "Article 19(1)(a)", "Article 21", "Article 32"],
+      "answer": 1,
+      "explanation": "In State of U.P. v. Raj Narain (1975) and later in several cases, the Supreme Court held that the right to information and right to know are part of freedom of speech and expression under Article 19(1)(a)."
+    },
+    {
+      "q": "Which Article provides for equality of opportunity in public employment but permits reservation for backward classes and SCs/STs?",
+      "options": ["Article 14", "Article 15", "Article 16", "Article 335"],
+      "answer": 2,
+      "explanation": "Article 16 provides equality of opportunity in public employment. Article 16(4) is an exception allowing reservation for backward classes, and Article 16(4A) allows reservation in promotions for SCs/STs."
+    },
+    {
+      "q": "Protection of Civil Rights Act, 1955 was enacted to implement which Fundamental Right?",
+      "options": ["Article 14", "Article 15", "Article 17", "Article 23"],
+      "answer": 2,
+      "explanation": "The Protection of Civil Rights Act, 1955 (originally Untouchability (Offences) Act, 1955) was enacted by Parliament under Article 35 to give effect to Article 17, which abolishes untouchability."
+    },
+    {
+      "q": "The right to organise and bargain collectively is implied in which Fundamental Right?",
+      "options": ["Article 14", "Article 19(1)(b)", "Article 19(1)(c)", "Article 23"],
+      "answer": 2,
+      "explanation": "The right to form trade unions and bargain collectively is implied in Article 19(1)(c), which guarantees freedom of association. However, the right to go on strike is not a fundamental right."
+    },
+    {
+      "q": "In which case did the Supreme Court hold that the preamble is part of the Constitution and can be used to interpret Fundamental Rights?",
+      "options": ["Berubari Union Case", "Kesavananda Bharati Case", "Golaknath Case", "S.R. Bommai Case"],
+      "answer": 1,
+      "explanation": "In Kesavananda Bharati v. State of Kerala (1973), the Supreme Court held that the Preamble is part of the Constitution and can be used as an aid to interpret the Constitution, including Fundamental Rights."
+    },
+    {
+      "q": "Which constitutional provision empowers Parliament to make laws on preventive detention?",
+      "options": ["Article 22(7)", "Article 246", "Entry 9 of List I (Union List)", "All of the above"],
+      "answer": 3,
+      "explanation": "Parliament's power to legislate on preventive detention comes from Article 22(7) and Entry 9 of List I (Union List — Preventive Detention for reasons connected with Defence, Foreign Affairs, etc.)."
+    },
+    {
+      "q": "Which of the following is an instance of 'protective discrimination' under the Indian Constitution?",
+      "options": ["Equal pay for equal work", "Reservation for SCs/STs", "Abolition of untouchability", "Prohibition of child labour"],
+      "answer": 1,
+      "explanation": "Reservation for SCs/STs under Articles 15(4) and 16(4) is a classic example of 'protective discrimination' — discriminating in favour of disadvantaged groups to achieve substantive equality."
+    },
+    {
+      "q": "Which case is associated with the right to speedy justice and held that 'bail not jail' should be the rule?",
+      "options": ["Hussainara Khatoon Case", "Moti Ram Case", "Sanjay Chandra Case", "Gudikanti Narasimhulu Case"],
+      "answer": 0,
+      "explanation": "In Hussainara Khatoon v. State of Bihar (1979), the Supreme Court held that undertrial prisoners cannot be kept in jail for a period longer than the maximum sentence for the offence, protecting Article 21."
+    },
+    {
+      "q": "Which case dealt with the fundamental right to shelter of pavement dwellers in Mumbai?",
+      "options": ["Chameli Singh Case", "Olga Tellis Case", "Shantistar Builders Case", "Francis Coralie Case"],
+      "answer": 1,
+      "explanation": "In Olga Tellis v. Bombay Municipal Corporation (1985), the Supreme Court held that the right to livelihood of pavement dwellers is part of Article 21 and they cannot be evicted without following due process."
+    },
+    {
+      "q": "Which judgment is related to the Right of Children to Free and Compulsory Education?",
+      "options": ["TMA Pai Case", "Unni Krishnan Case", "Mohini Jain Case", "Ashoka Kumar Thakur Case"],
+      "answer": 1,
+      "explanation": "In Unni Krishnan v. State of Andhra Pradesh (1993), the Supreme Court first held that the right to education is a fundamental right. This paved the way for the 86th Amendment and Article 21A."
+    },
+    {
+      "q": "Right to vote is described as which kind of right?",
+      "options": ["Fundamental Right", "Legal Right", "Constitutional Right", "Natural Right"],
+      "answer": 1,
+      "explanation": "Right to vote is a statutory/legal right governed by the Representation of the People Act, 1951, not a Fundamental Right under Part III of the Constitution."
+    },
+    {
+      "q": "Which of the following Fundamental Rights are available to corporations?",
+      "options": ["All Fundamental Rights", "Only Article 14", "Only Article 19", "None"],
+      "answer": 1,
+      "explanation": "Corporations can claim the fundamental right to equality under Article 14. However, rights like those under Article 19 (available only to citizens) are generally not available to corporations."
+    },
+    {
+      "q": "Which Article allows the imposition of reasonable restrictions on the fundamental rights of citizens in the interest of general public?",
+      "options": ["Articles 19(2) to 19(6)", "Article 33", "Article 34", "All of the above"],
+      "answer": 0,
+      "explanation": "Articles 19(2) to 19(6) permit the State to impose reasonable restrictions on each of the six freedoms in the interest of security of state, public order, decency, morality, sovereignty of India, etc."
+    },
+    {
+      "q": "The word 'reasonable' in 'reasonable restrictions' under Article 19 is to be determined by:",
+      "options": ["Parliament", "The President", "The Courts", "The Council of Ministers"],
+      "answer": 2,
+      "explanation": "Whether restrictions on Fundamental Rights are 'reasonable' is determined by courts. Courts examine both the reasonableness of the restriction and its proportionality to the object sought to be achieved."
+    },
+    {
+      "q": "Which Article prohibits employment of children below 14 in all employments, not just hazardous?",
+      "options": ["Article 24", "Article 39(f)", "Both — after 2016 Amendment to Child Labour Act", "Neither"],
+      "answer": 2,
+      "explanation": "Article 24 prohibits employment of children below 14 in hazardous occupations. The Child Labour (Prohibition and Regulation) Amendment Act, 2016 extended this ban to all work except family businesses and entertainment industry."
+    },
+    {
+      "q": "Which Fundamental Right prevents the state from distinguishing between residents on the basis of their state of residence while making rules for public employment?",
+      "options": ["Article 14", "Article 15", "Article 16(2)", "Article 16(3)"],
+      "answer": 2,
+      "explanation": "Article 16(2) prohibits discrimination in public employment on grounds of religion, race, caste, sex, descent, place of birth, or residence. However, Article 16(3) allows Parliament to prescribe residence requirements for certain state/UT jobs."
+    },
+    {
+      "q": "In which case did the Supreme Court hold that privacy includes informational privacy (protection of personal data)?",
+      "options": ["Shreya Singhal Case", "Puttaswamy Case", "Anuradha Bhasin Case", "NALSA Case"],
+      "answer": 1,
+      "explanation": "In Justice K.S. Puttaswamy v. Union of India (2017), the 9-judge bench broadly interpreted privacy to include informational privacy — the right to control one's personal data and information."
+    },
+    {
+      "q": "The 'Doctrine of Eclipse' in relation to Article 13 means:",
+      "options": ["Pre-constitutional laws inconsistent with Fundamental Rights become dead", "Such laws become only dormant (eclipsed) and can be revived if the Fundamental Right is amended or removed", "Both A and B", "Neither A nor B"],
+      "answer": 2,
+      "explanation": "The Doctrine of Eclipse (from Bhikaji Narain Case, 1955) holds that pre-constitutional laws inconsistent with Fundamental Rights are not void but merely dormant (eclipsed). They can be revived if the Fundamental Right is amended or removed."
+    },
+    {
+      "q": "Which case established that right to sleep is a fundamental right under Article 21?",
+      "options": ["Ramlila Maidan Case", "Sunil Batra Case", "D.K. Basu Case", "Parmanand Katara Case"],
+      "answer": 0,
+      "explanation": "In Ramlila Maidan Incident v. Home Secretary, Union of India (2012), the Supreme Court held that the right to sleep is an inalienable and natural right of human beings and is protected under Article 21."
+    },
+    {
+      "q": "Under which provision is economic reservation for EWS provided?",
+      "options": ["Article 15(4) and 16(4)", "Article 15(5) and 16(5)", "Article 15(6) and 16(6)", "Article 15(3) and 16(3)"],
+      "answer": 2,
+      "explanation": "The 103rd Constitutional Amendment Act, 2019 inserted Articles 15(6) and 16(6) to provide up to 10% reservation for Economically Weaker Sections (EWS) in educational institutions and public employment."
+    },
+    {
+      "q": "Which Article prevents the State from conferring military titles on civilians?",
+      "options": ["Article 16", "Article 17", "Article 18", "Article 19"],
+      "answer": 2,
+      "explanation": "Article 18 abolishes titles. It prohibits the State from conferring titles on any person except military or academic distinctions. However, awards like Bharat Ratna are not 'titles' as held by the Supreme Court."
+    },
+    {
+      "q": "The right to adequate nutrition and clothing as part of the right to life was recognized in which case?",
+      "options": ["Francis Coralie Case", "Bandhua Mukti Morcha Case", "Peoples Union for Civil Liberties Case", "Olga Tellis Case"],
+      "answer": 0,
+      "explanation": "In Francis Coralie Mullin v. Union Territory of Delhi (1981), the Supreme Court held that Article 21 includes the right to live with dignity, which includes adequate nutrition, clothing, shelter, and facilities to read, write, and express oneself."
+    },
+    {
+      "q": "Which case is related to women's right against sexual harassment at workplace — later leading to POSH Act?",
+      "options": ["Medha Kotwal Case", "Vishaka Case", "Mary Roy Case", "Apparel Export Promotion Council Case"],
+      "answer": 1,
+      "explanation": "In Vishaka v. State of Rajasthan (1997), the Supreme Court laid down guidelines against sexual harassment of women at the workplace — the 'Vishaka Guidelines'. These were later incorporated in the POSH Act, 2013."
+    },
+    {
+      "q": "Which Article makes it obligatory that the State shall not discriminate against any citizen in matters of public employment on the ground of religion?",
+      "options": ["Article 14", "Article 15(1)", "Article 16(2)", "Article 25"],
+      "answer": 2,
+      "explanation": "Article 16(2) prohibits the State from discriminating against any citizen in matters of public employment on grounds of religion, race, caste, sex, descent, place of birth, or residence."
+    },
+    {
+      "q": "Which landmark judgment struck down the practice of instant triple talaq as unconstitutional?",
+      "options": ["Shah Bano Case", "Shayara Bano Case", "Sarla Mudgal Case", "Mary Roy Case"],
+      "answer": 1,
+      "explanation": "In Shayara Bano v. Union of India (2017), a Constitution Bench of the Supreme Court by a 3:2 majority struck down the practice of instant triple talaq (talaq-e-biddat) as unconstitutional, violating Articles 14, 15, and 21."
+    },
+    {
+      "q": "Which case is associated with the right to a clean and safe environment as part of Article 21?",
+      "options": ["M.C. Mehta v. Union of India", "Subhash Kumar v. State of Bihar", "Vellore Citizens Welfare Forum v. Union of India", "All of the above"],
+      "answer": 3,
+      "explanation": "Multiple Supreme Court cases have held that the right to a clean environment is part of Article 21. M.C. Mehta, Subhash Kumar, and Vellore Citizens Welfare Forum cases are all landmark judgments in this area."
+    },
+    {
+      "q": "The Fundamental Rights are justiciable. This means:",
+      "options": ["They can be suspended during Emergency", "They are enforceable by courts", "They are not subject to any restrictions", "They are permanent and cannot be amended"],
+      "answer": 1,
+      "explanation": "Fundamental Rights are justiciable — they are enforceable by courts. A person can approach the Supreme Court (under Article 32) or High Court (under Article 226) for enforcement of Fundamental Rights."
+    },
+    {
+      "q": "Which Article of the Constitution of India guarantees freedom of trade and commerce?",
+      "options": ["Article 19(1)(g)", "Article 301", "Article 302", "Article 19(1)(g) and Article 301 together"],
+      "answer": 3,
+      "explanation": "Freedom of trade, commerce, and intercourse is protected both under Article 19(1)(g) (as a Fundamental Right to carry on trade) and under Article 301 (freedom of trade, commerce, and intercourse throughout the territory of India)."
+    },
+    {
+      "q": "Which of the following cases held that the right of a child to a healthy development is a Fundamental Right?",
+      "options": ["Unni Krishnan Case", "Bachpan Bachao Andolan Case", "Gaurav Jain Case", "M.C. Mehta Case"],
+      "answer": 1,
+      "explanation": "In Bachpan Bachao Andolan v. Union of India (2011), the Supreme Court held that children have a fundamental right to healthy development under Article 21 and directed the government to take steps to eliminate child labour."
+    },
+    {
+      "q": "The 'Right to be Heard' before adverse action is taken is implied in which Fundamental Right?",
+      "options": ["Article 14", "Article 19", "Article 21", "Both Article 14 and 21"],
+      "answer": 3,
+      "explanation": "The right to be heard (principle of natural justice — audi alteram partem) is implied in both Article 14 (fair procedure) and Article 21 (just, fair, and reasonable procedure), as held in various Supreme Court cases."
+    },
+    {
+      "q": "Which Article prohibits the practice of begar (forced labour without wages) and similar forms of forced labour?",
+      "options": ["Article 21", "Article 22", "Article 23", "Article 24"],
+      "answer": 2,
+      "explanation": "Article 23 prohibits traffic in human beings and begar and other similar forms of forced labour. Any contravention of this provision shall be an offence punishable in accordance with law."
+    },
+    {
+      "q": "The Constitution of India borrowed the concept of Fundamental Rights primarily from which country?",
+      "options": ["United Kingdom", "United States of America", "France", "Canada"],
+      "answer": 1,
+      "explanation": "The concept of Fundamental Rights was primarily borrowed from the United States of America. The US Bill of Rights served as a major inspiration for the Fundamental Rights in the Indian Constitution."
+    },
+    {
+      "q": "Which of the following is correct about Article 32?",
+      "options": ["It can be exercised for any legal right violation", "It can be exercised only for Fundamental Rights violations", "It can be exercised even if there is no Fundamental Right violation", "High Courts cannot issue the same writs as Supreme Court"],
+      "answer": 1,
+      "explanation": "Article 32 can be invoked ONLY for enforcement of Fundamental Rights. For other legal rights, one must go to a High Court under Article 226 or ordinary civil courts."
+    },
+    {
+      "q": "Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act was enacted to enforce which Fundamental Right?",
+      "options": ["Article 14", "Article 15", "Article 17", "Article 21"],
+      "answer": 2,
+      "explanation": "The SC/ST (Prevention of Atrocities) Act, 1989 was enacted to give effect to Article 17 (abolition of untouchability) and protect Dalits and tribal communities from caste-based atrocities."
+    },
+    {
+      "q": "Which Fundamental Right prohibits the State from acquiring property of religious or minority institutions without just compensation?",
+      "options": ["Article 25", "Article 26", "Article 30(1A)", "Article 300A"],
+      "answer": 2,
+      "explanation": "Article 30(1A) provides that if the State acquires the property of any minority educational institution, it shall ensure that the amount fixed for acquisition is such as would not restrict or abrogate the right to establish and administer institutions."
+    },
+    {
+      "q": "Which constitutional provision was used to impose President's Rule in states?",
+      "options": ["Article 352", "Article 356", "Article 360", "Article 368"],
+      "answer": 1,
+      "explanation": "Article 356 (President's Rule) allows the President to assume the functions of a state government when the constitutional machinery fails. This leads to suspension of certain Fundamental Rights in that state."
+    },
+    {
+      "q": "Which case held that the right to marry a person of one's choice is a fundamental right under Article 21?",
+      "options": ["Lata Singh Case", "Hadiya Case", "Shakti Vahini Case", "All of the above"],
+      "answer": 3,
+      "explanation": "Multiple Supreme Court judgments have held that the right to choose a life partner is a fundamental right under Article 21 — Lata Singh (2006), Hadiya Case (2018), and Shakti Vahini v. Union of India (2018)."
+    },
+    {
+      "q": "Which Article of the Constitution protects citizens' right to reside in any part of India?",
+      "options": ["Article 19(1)(d)", "Article 19(1)(e)", "Article 21", "Article 14"],
+      "answer": 1,
+      "explanation": "Article 19(1)(e) guarantees to all citizens the right to reside and settle in any part of the territory of India. Article 19(1)(d) guarantees freedom to move freely throughout India."
+    },
+    {
+      "q": "Which case linked the Right to Education with the Right to Life under Article 21?",
+      "options": ["Mohini Jain Case", "Unni Krishnan Case", "TMA Pai Case", "P.A. Inamdar Case"],
+      "answer": 1,
+      "explanation": "In Unni Krishnan v. State of Andhra Pradesh (1993), the Supreme Court held that the right to free education is a fundamental right of children until the age of 14, flowing from Article 21."
+    },
+    {
+      "q": "Which of the following is NOT a ground for imposing reasonable restrictions on Article 19(1)(a)?",
+      "options": ["Public order", "Sovereignty of India", "Individual inconvenience", "Security of the State"],
+      "answer": 2,
+      "explanation": "Under Article 19(2), the grounds for imposing reasonable restrictions on freedom of speech are: security of state, public order, decency/morality, contempt of court, defamation, incitement to offence, and sovereignty & integrity of India. Individual inconvenience is not a ground."
+    },
+    {
+      "q": "Which fundamental right prohibits the State from paying for religious instruction in wholly State-funded institutions?",
+      "options": ["Article 25", "Article 26", "Article 27", "Article 28"],
+      "answer": 3,
+      "explanation": "Article 28(1) prohibits religious instruction in educational institutions wholly maintained out of State funds. Article 27 prohibits compelling persons to pay taxes for promotion of a religion."
+    },
+    {
+      "q": "The right of persons to have an interpreter during their trial as part of the right to fair trial is embedded in which Article?",
+      "options": ["Article 20", "Article 21", "Article 22", "Article 14"],
+      "answer": 1,
+      "explanation": "The right to a fair trial, including the right to have an interpreter and understand the proceedings, is part of the right to life and personal liberty under Article 21."
+    },
+    {
+      "q": "Which Article provides that the right to move the Supreme Court under Article 32 is itself a Fundamental Right?",
+      "options": ["Article 32(1)", "Article 32(2)", "Article 32(3)", "Article 32(4)"],
+      "answer": 0,
+      "explanation": "Article 32(1) guarantees the right to move the Supreme Court by appropriate proceedings for the enforcement of Fundamental Rights. This right itself is a Fundamental Right."
+    },
+    {
+      "q": "Who is described as 'Father of the Indian Constitution' and champion of Fundamental Rights?",
+      "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Dr. B.R. Ambedkar", "B.N. Rau"],
+      "answer": 2,
+      "explanation": "Dr. B.R. Ambedkar is described as the 'Father of the Indian Constitution'. He chaired the Drafting Committee and was a strong advocate for fundamental rights, especially for the marginalized sections."
+    },
+    {
+      "q": "Which Fundamental Right empowers minorities to receive state aid for their educational institutions?",
+      "options": ["Article 29", "Article 30", "Article 30(2)", "Article 28"],
+      "answer": 2,
+      "explanation": "Article 30(2) provides that the State shall not, in granting aid to educational institutions, discriminate against any educational institution on the ground that it is under the management of a minority."
+    },
+    {
+      "q": "The right to form and join trade unions is protected under which Article?",
+      "options": ["Article 19(1)(b)", "Article 19(1)(c)", "Article 23", "Article 43A"],
+      "answer": 1,
+      "explanation": "The right to form and join trade unions is protected under Article 19(1)(c), which guarantees freedom of association. However, the right to strike is not a fundamental right."
+    },
+    {
+      "q": "Which case established the guidelines for prevention of sexual harassment of women at workplace (now codified as POSH Act)?",
+      "options": ["Mary Roy Case", "Vishaka Case", "Apparel Export Promotion Council Case", "Medha Kotwal Lele Case"],
+      "answer": 1,
+      "explanation": "Vishaka v. State of Rajasthan (1997) established comprehensive guidelines to prevent sexual harassment of women at the workplace, which were later made statutory through the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013."
+    },
+    {
+      "q": "In which famous case did the Supreme Court assert that the right to privacy is intrinsic to freedom and dignity?",
+      "options": ["Maneka Gandhi Case", "A.K. Gopalan Case", "Puttaswamy Case", "Govind v. State of MP"],
+      "answer": 2,
+      "explanation": "In Justice K.S. Puttaswamy (Retd.) v. Union of India (2017), all nine judges unanimously held that privacy is a fundamental right, intrinsic to life, liberty, and dignity under Article 21."
+    },
+    {
+      "q": "Which of the following Articles specifically mentions 'untouchability' by name?",
+      "options": ["Article 15", "Article 17", "Article 46", "Article 335"],
+      "answer": 1,
+      "explanation": "Article 17 is the only Article in the Constitution that specifically mentions and abolishes 'untouchability'. The practice of untouchability in any form is declared an offence."
+    },
+    {
+      "q": "The Indian Constitution guarantees Fundamental Rights from Articles:",
+      "options": ["10 to 32", "12 to 35", "13 to 35", "14 to 35"],
+      "answer": 1,
+      "explanation": "Fundamental Rights are guaranteed in Part III of the Indian Constitution, from Article 12 (definition of State) to Article 35 (legislation to give effect to the provisions of this Part)."
+    },
+    {
+      "q": "Right to property was removed from Fundamental Rights during whose Prime Ministership?",
+      "options": ["Indira Gandhi", "Morarji Desai", "Rajiv Gandhi", "V.P. Singh"],
+      "answer": 1,
+      "explanation": "The 44th Constitutional Amendment Act, 1978 which removed property rights from Fundamental Rights was passed during the Janata Party government under Prime Minister Morarji Desai."
+    },
+    {
+      "q": "Which part of Article 21 was interpreted to include the right to a fair trial?",
+      "options": ["Life", "Personal Liberty", "Procedure established by law", "All three parts together"],
+      "answer": 2,
+      "explanation": "The right to a fair trial flows from the requirement of 'procedure established by law' in Article 21. After Maneka Gandhi case, this procedure must be just, fair, and reasonable — which includes fair trial."
+    },
+    {
+      "q": "Which article specifically states that no religious instruction shall be provided in wholly state-maintained educational institutions?",
+      "options": ["Article 25", "Article 26", "Article 27", "Article 28(1)"],
+      "answer": 3,
+      "explanation": "Article 28(1) categorically states that no religious instruction shall be provided in any educational institution wholly maintained out of State funds."
+    },
+    {
+      "q": "The Fundamental Rights provisions of the Indian Constitution are NOT applicable to which of the following?",
+      "options": ["Public sector undertakings", "Municipalities", "Private companies", "Government-aided schools"],
+      "answer": 2,
+      "explanation": "Fundamental Rights apply against the 'State' as defined in Article 12 (Government, Parliament, State Governments and Legislatures, and local/other authorities). Pure private companies are generally not covered."
+    },
+    {
+      "q": "Which case held that Fundamental Rights can be enforced against private bodies performing public functions?",
+      "options": ["Pradeep Kumar Biswas Case", "Sukhdev Singh Case", "Ajay Hasia Case", "All of the above"],
+      "answer": 3,
+      "explanation": "In Sukhdev Singh v. Bhagatram (1975), Ajay Hasia v. Khalid Mujib (1981), and Pradeep Kumar Biswas v. Indian Institute of Chemical Biology (2002), courts extended the definition of 'State' to entities performing public functions."
+    },
+    {
+      "q": "A citizen of India is arrested without any formal charge. Which writ should be filed to secure his release?",
+      "options": ["Mandamus", "Certiorari", "Habeas Corpus", "Quo Warranto"],
+      "answer": 2,
+      "explanation": "Habeas Corpus (meaning 'to have the body') is filed to secure the release of a person who has been detained without lawful authority. It is the most important writ for protection of personal liberty."
+    },
+    {
+      "q": "The expression 'procedure established by law' in Article 21 was initially interpreted narrowly (any procedure that Parliament enacts) in which case?",
+      "options": ["Maneka Gandhi Case", "A.K. Gopalan Case", "Kesavananda Bharati Case", "Shankari Prasad Case"],
+      "answer": 1,
+      "explanation": "In A.K. Gopalan v. State of Madras (1950), the Supreme Court held that 'procedure established by law' means any procedure enacted by Parliament — it need not be fair or just. This was overruled in Maneka Gandhi (1978)."
+    },
+    {
+      "q": "Which Article of the Constitution provides that the State can make special provisions for women?",
+      "options": ["Article 14", "Article 15(1)", "Article 15(3)", "Article 16"],
+      "answer": 2,
+      "explanation": "Article 15(3) provides that nothing in Article 15 (prohibition of discrimination) shall prevent the State from making any special provision for women and children. This is an enabling provision for protective discrimination."
+    },
+    {
+      "q": "Under Article 22(5), a detained person under preventive detention has the right to:",
+      "options": ["Consult a lawyer of his choice", "Be represented before the Advisory Board", "Be told the grounds of detention and make a representation against it", "Be produced before a magistrate within 24 hours"],
+      "answer": 2,
+      "explanation": "Article 22(5) provides that a person detained under a preventive detention law must be informed of the grounds of detention and given the earliest opportunity to make a representation against it."
+    },
+    {
+      "q": "In which case did the Supreme Court hold that 'dignity' is the core of all Fundamental Rights?",
+      "options": ["Maneka Gandhi Case", "Puttaswamy Case", "NALSA Case", "Navtej Johar Case"],
+      "answer": 1,
+      "explanation": "In Puttaswamy v. Union of India (2017), the Supreme Court held that human dignity is the core of all fundamental rights and that privacy is inextricably linked to human dignity."
+    },
+    {
+      "q": "The Bonded Labour System (Abolition) Act, 1976 was enacted to give effect to which Article?",
+      "options": ["Article 21", "Article 22", "Article 23", "Article 24"],
+      "answer": 2,
+      "explanation": "The Bonded Labour System (Abolition) Act, 1976 was enacted under Article 35 to implement Article 23, which prohibits forced labour and begar."
+    },
+    {
+      "q": "Which year was the Protection of Human Rights Act enacted in India?",
+      "options": ["1990", "1991", "1993", "1995"],
+      "answer": 2,
+      "explanation": "The Protection of Human Rights Act was enacted in 1993, which led to the establishment of the National Human Rights Commission (NHRC) to protect and promote human rights in India."
+    },
+    {
+      "q": "Which case established that the right to die with dignity is part of Article 21?",
+      "options": ["Gian Kaur Case", "Common Cause v. Union of India", "Aruna Shanbaug Case", "Both B and C"],
+      "answer": 3,
+      "explanation": "In Aruna Shanbaug v. Union of India (2011) and Common Cause v. Union of India (2018), the Supreme Court recognized the right to die with dignity (passive euthanasia and living will/advance directive) as part of Article 21."
+    },
+    {
+      "q": "Which constitutional provision was challenged in the Champakam Dorairajan case, leading to the First Constitutional Amendment?",
+      "options": ["Article 14", "Article 15(1)", "Article 29(2)", "Article 16(4)"],
+      "answer": 2,
+      "explanation": "State of Madras v. Champakam Dorairajan (1951) struck down communal reservation in educational institutions as violative of Article 29(2). This led to the First Constitutional Amendment (1951) which added Article 15(4)."
+    },
+    {
+      "q": "Which amendment introduced Article 16(4B) regarding reservation in promotion?",
+      "options": ["77th Amendment", "85th Amendment", "93rd Amendment", "97th Amendment"],
+      "answer": 1,
+      "explanation": "The 85th Constitutional Amendment Act, 2001 inserted Article 16(4B) which provides that unfilled vacancies in reservation for SCs/STs can be carried forward to subsequent years without being subject to the 50% cap."
+    },
+    {
+      "q": "Which of the following is protected by Article 19(1)(g)?",
+      "options": ["Right to beg on streets", "Right to run a gambling den", "Right to practice medicine without a degree", "None of the above"],
+      "answer": 3,
+      "explanation": "Article 19(1)(g) protects the right to carry on any profession, occupation, trade, or business. However, the State can impose reasonable restrictions — activities like begging, running gambling dens, or practicing medicine without a degree can be regulated or prohibited."
+    },
+    {
+      "q": "Which Article permits reservation for backward communities without violating the right to equality?",
+      "options": ["Article 14", "Article 15(4) and Article 16(4)", "Article 335", "Articles 330 and 332"],
+      "answer": 1,
+      "explanation": "Articles 15(4) and 16(4) are enabling provisions that permit the State to make special provisions for socially and educationally backward classes and SCs/STs, without violating the equality provisions of Articles 14-16."
+    },
+    {
+      "q": "The right to know the reasons for arrest is guaranteed under which Article?",
+      "options": ["Article 20", "Article 21", "Article 22(1)", "Article 22(2)"],
+      "answer": 2,
+      "explanation": "Article 22(1) provides that no person who is arrested shall be detained in custody without being informed, as soon as may be, of the grounds for such arrest."
+    },
+    {
+      "q": "Under which Article is a person entitled to consult and be defended by a lawyer of his choice?",
+      "options": ["Article 20(3)", "Article 21", "Article 22(1)", "Article 22(2)"],
+      "answer": 2,
+      "explanation": "Article 22(1) provides that every person who is arrested and detained shall have the right to consult and to be defended by a legal practitioner of his choice."
+    },
+    {
+      "q": "The Right to Constitutional Remedies is called the 'cornerstone of the democratic edifice' by which author?",
+      "options": ["Granville Austin", "Wheare", "Jennings", "Ambedkar"],
+      "answer": 3,
+      "explanation": "Dr. B.R. Ambedkar called Article 32 (Right to Constitutional Remedies) the 'heart and soul of the Constitution'. Granville Austin described the Right to Equality as the 'cornerstone of the democratic edifice'."
+    },
+    {
+      "q": "The Child Labour (Prohibition and Regulation) Act was enacted in which year?",
+      "options": ["1976", "1982", "1986", "1992"],
+      "answer": 2,
+      "explanation": "The Child Labour (Prohibition and Regulation) Act was enacted in 1986 to give effect to Article 24, prohibiting employment of children in hazardous occupations. It was amended in 2016 to ban child labour in all occupations."
+    },
+    {
+      "q": "Which Fundamental Right is violated when a person is prevented from practising a religion of their choice?",
+      "options": ["Article 14", "Article 19(1)(a)", "Article 25", "Article 29"],
+      "answer": 2,
+      "explanation": "Article 25 guarantees freedom of conscience and the right freely to profess, practise, and propagate religion. Preventing someone from practicing their chosen religion violates Article 25."
+    },
+    {
+      "q": "In the case of preventive detention, the maximum period without an Advisory Board opinion is:",
+      "options": ["1 month", "2 months", "3 months", "6 months"],
+      "answer": 2,
+      "explanation": "Article 22(4) provides that no preventive detention law shall authorize detention for more than 3 months unless an advisory board reports sufficient cause for such detention."
+    },
+    {
+      "q": "Which court below the High Court cannot issue writs?",
+      "options": ["Sessions Court", "District Court", "Both A and B", "All subordinate courts"],
+      "answer": 3,
+      "explanation": "Only the Supreme Court (under Article 32) and High Courts (under Article 226) have the power to issue writs. No subordinate court or tribunal has the power to issue constitutional writs."
+    },
+    {
+      "q": "Which case is associated with the right of bonded labourers and their rehabilitation as a Fundamental Right under Article 21?",
+      "options": ["Bandhua Mukti Morcha Case", "People's Union for Civil Liberties Case", "Salal Hydro Project Case", "Labourers Working on Salal Hydro Case"],
+      "answer": 0,
+      "explanation": "In Bandhua Mukti Morcha v. Union of India (1984), the Supreme Court held that bonded labourers have a right to be released and rehabilitated, and this is part of the fundamental right to live with dignity under Article 21."
+    },
+    {
+      "q": "The inclusion of a provision guaranteeing Fundamental Rights in the Constitution was strongly advocated by which group/body before independence?",
+      "options": ["Indian National Congress", "Muslim League", "Hindu Mahasabha", "Communist Party of India"],
+      "answer": 0,
+      "explanation": "The Indian National Congress had been demanding a declaration of Fundamental Rights since the Nehru Report (1928) and the Karachi Session (1931), where a resolution on Fundamental Rights and Economic Programme was adopted."
+    },
+    {
+      "q": "The Supreme Court's power to issue writs under Article 32 is a:",
+      "options": ["Discretionary power", "Mandatory power", "Advisory power", "Concurrent power with Parliament"],
+      "answer": 0,
+      "explanation": "The Supreme Court's power to issue writs under Article 32 is discretionary — it can refuse to exercise this power if the petitioner has an adequate alternative remedy or if there is unreasonable delay."
+    },
+    {
+      "q": "Conversion of religion is protected as a Fundamental Right under Article 25. It means the right to:",
+      "options": ["Convert others to one's religion forcibly", "Propagate one's religion without force or allurement", "Both A and B", "Neither A nor B"],
+      "answer": 1,
+      "explanation": "Article 25 guarantees the right to 'propagate' religion, which means spreading one's religious beliefs peacefully. The Supreme Court has held that this does not include the right to convert others forcibly or by inducement."
+    },
+    {
+      "q": "Which Article provides that the right to move Supreme Court (Article 32) shall not be suspended except as otherwise provided?",
+      "options": ["Article 32(3)", "Article 32(4)", "Article 358", "Article 359"],
+      "answer": 1,
+      "explanation": "Article 32(4) provides that the right guaranteed by this Article shall not be suspended except as otherwise provided for by the Constitution — which allows suspension under Article 359 during National Emergency (not Articles 20 and 21)."
+    },
+    {
+      "q": "Which case is celebrated as the first Public Interest Litigation in India related to Fundamental Rights of undertrials?",
+      "options": ["D.K. Basu Case", "Hussainara Khatoon Case", "Bandhua Mukti Morcha Case", "M.C. Mehta Case"],
+      "answer": 1,
+      "explanation": "Hussainara Khatoon v. Home Secretary, State of Bihar (1979) is considered the first landmark PIL in India, where the Supreme Court took suo motu cognizance of the plight of undertrial prisoners and protected their right to speedy trial under Article 21."
+    },
+    {
+      "q": "Right to equality does not prevent classification but prohibits:",
+      "options": ["Classification based on rational basis", "Reasonable classification", "Arbitrary classification", "Classification for achieving equality"],
+      "answer": 2,
+      "explanation": "Article 14 prohibits arbitrary classification. Reasonable classification based on an intelligible differentia with a rational nexus to the object of classification is permissible. Only arbitrary, irrational classification is prohibited."
+    },
+    {
+      "q": "Which Article enables the High Court to issue writs for purposes other than enforcement of Fundamental Rights also?",
+      "options": ["Article 32", "Article 136", "Article 226", "Article 227"],
+      "answer": 2,
+      "explanation": "Unlike the Supreme Court (Article 32, only for Fundamental Rights), Article 226 empowers High Courts to issue writs not only for enforcement of Fundamental Rights but also for 'any other purpose' — giving them wider jurisdiction."
+    },
+    {
+      "q": "The Right against exploitation under Article 23 is available against:",
+      "options": ["State alone", "Private individuals alone", "Both State and private individuals", "Only multinational companies"],
+      "answer": 2,
+      "explanation": "Unlike most Fundamental Rights (which operate against the State), Article 23 operates both against the State and private individuals. Both can be prosecuted for practicing begar or human trafficking."
+    },
+    {
+      "q": "Which case is related to State's obligation to provide medical assistance to injured persons under Article 21?",
+      "options": ["Parmanand Katara Case", "Consumer Education and Research Centre Case", "Paschim Banga Khet Mazdoor Samity Case", "Both A and C"],
+      "answer": 3,
+      "explanation": "In Parmanand Katara v. Union of India (1989), the SC held doctors and hospitals must provide emergency medical aid. In Paschim Banga Khet Mazdoor Samity (1996), the SC held that denial of medical treatment by a state hospital violates Article 21."
+    }
+  ]
+}
